@@ -1,0 +1,20 @@
+.appointment-item {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #9796f0;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 35px;
+}
+
+.title-star-container {
+  display: flex;
+}
+
+.title {
+  margin-right: auto;
+}
+.button {
+  background-color: transparent;
+  border-color: transparent;
+}
